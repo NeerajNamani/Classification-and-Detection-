@@ -5,16 +5,25 @@ This project demonstrates how to use the NVIDIA Jetson Nano for disease classifi
 
 ## Getting Started
 
-### Prerequisites
+## Prerequisites
 Ensure you have the following hardware and software ready:
-- NVIDIA Jetson Nano Developer Kit
-<img width="380" alt="Screenshot 2024-03-28 at 8 54 20 PM" src="https://github.com/NeerajNamani/Lung-Classification-and-Detection-Jetson-Nano-/assets/69526166/5b1104fe-cd6e-4c71-a3a6-f872785eb282">
-- MicroSD card (64GB recommended)
-<img width="281" alt="Screenshot 2024-03-28 at 8 55 20 PM" src="https://github.com/NeerajNamani/Lung-Classification-and-Detection-Jetson-Nano-/assets/69526166/fdbc4281-4d44-4499-9a45-68ebef5829fc">
-- 5V⎓3A power supply
-- Monitor, Keyboard, Mouse
-- Internet connection for the Jetson Nano
-<img width="269" alt="Screenshot 2024-03-28 at 8 55 44 PM" src="https://github.com/NeerajNamani/Lung-Classification-and-Detection-Jetson-Nano-/assets/69526166/7a4281f6-eb8b-4289-9096-cf6db34cd6f1">
+
+- **NVIDIA Jetson Nano Developer Kit**
+
+  <img src="https://github.com/NeerajNamani/Lung-Classification-and-Detection-Jetson-Nano-/assets/69526166/5b1104fe-cd6e-4c71-a3a6-f872785eb282" width="380" alt="NVIDIA Jetson Nano Developer Kit">
+
+- **MicroSD card (64GB recommended)**
+
+  <img src="https://github.com/NeerajNamani/Lung-Classification-and-Detection-Jetson-Nano-/assets/69526166/fdbc4281-4d44-4499-9a45-68ebef5829fc" width="281" alt="MicroSD Card">
+
+- **5V⎓3A power supply**
+
+- **Monitor, Keyboard, Mouse**
+
+- **Internet connection for the Jetson Nano**
+
+  <img src="https://github.com/NeerajNamani/Lung-Classification-and-Detection-Jetson-Nano-/assets/69526166/7a4281f6-eb8b-4289-9096-cf6db34cd6f1" width="269" alt="Internet Connection Setup">
+
 
 
 ### Hardware Setup
