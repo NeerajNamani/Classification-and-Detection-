@@ -69,4 +69,5 @@ As we have used Residual Neural Network (RESNET 152) in this project. The below 
 <img width="397" alt="Screenshot 2024-03-28 at 9 00 57 PM" src="https://github.com/NeerajNamani/Lung-Classification-and-Detection-Jetson-Nano-/assets/69526166/e743331e-3853-4fa6-8045-4ceaef9f12c0">
 
 
-Thanks to @dusty-nv's Jetson Inference <link src = "https://github.com/dusty-nv/jetson-inference">
+Thanks to @dusty-nv's Jetson Inference 
+[dusty-nv inference](https://github.com/dusty-nv/jetson-inference)
