@@ -1,4 +1,4 @@
-# Disease Classification and Detection using Jetson Nano
+# Lung Disease Classification and Detection using Jetson Nano
 
 ## Overview
 This project demonstrates how to use the NVIDIA Jetson Nano for disease classification and detection from CT scans and X-ray images using a deep learning model, specifically ResNet-152. It's designed to show the power of edge computing in medical diagnostics.
