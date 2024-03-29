@@ -64,6 +64,8 @@ python3 inference.py --model_path ./models/resnet152_best.pth --image_path ./dat
 
 ### Accuracy of the model
 As we have used Residual Neural Network (RESNET 152) in this project. The below graph is the accuracy of the model.
+
+
 <img width="397" alt="Screenshot 2024-03-28 at 9 00 57 PM" src="https://github.com/NeerajNamani/Lung-Classification-and-Detection-Jetson-Nano-/assets/69526166/e743331e-3853-4fa6-8045-4ceaef9f12c0">
 
 
